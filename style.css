@@ -32,3 +32,11 @@
 .logo-img{
   width: 120px;
 }
+
+.banner-img{
+  width: 300px;
+}
+
+.banner-container{
+  display:flex;
+}
